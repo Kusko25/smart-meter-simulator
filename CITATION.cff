@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Smart-Meter-Simulator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jan
+    family-names: Popanda
+    email: jan.popanda@gmail.com
+    name-particle: Popanda
+    name-suffix: Popanda
+    affiliation: RWTH
+    orcid: 'https://orcid.org/0000-0003-0159-398X'
+repository-code: 'https://github.com/Kusko25/smart-meter-simulator'
+abstract: >-
+  This repository contains source code used in the data
+  gathering for the Bachelor Thesis "Privacy-Preserving Data
+  Aggregation for Smart Meters using Temporary Ring-Based
+  Communication Structures".
+license: MIT
