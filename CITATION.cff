@@ -11,8 +11,6 @@ authors:
   - given-names: Jan
     family-names: Popanda
     email: jan.popanda@gmail.com
-    name-particle: Popanda
-    name-suffix: Popanda
     affiliation: RWTH
     orcid: 'https://orcid.org/0000-0003-0159-398X'
 repository-code: 'https://github.com/Kusko25/smart-meter-simulator'
