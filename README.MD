@@ -1,0 +1,1 @@
+This repository contains source code used in the data gathering for the Bachelor Thesis Privacy-Preserving Data Aggregation for Smart Meters using Temporary Ring-Based Communication Structures.

@@ -1,0 +1,4 @@
+HOST_SPEED = 3700 # In MHz
+N_REPORT_ENTRIES = 24
+TIMEOUT = 10 # In seconds
+PRINT_LOGS = True
